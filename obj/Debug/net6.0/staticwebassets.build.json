@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Jss54ITK8ph3nBThEUOutFR9RDIXJVwDnEOrDM9k2dk=",
+  "Source": "UnitTestAssignmentDocker",
+  "BasePath": "_content/UnitTestAssignmentDocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
